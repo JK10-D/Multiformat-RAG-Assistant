@@ -10,3 +10,4 @@ python-dotenv
 mistralai
 beautifulsoup4
 requests
+torchvision
