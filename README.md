@@ -3,6 +3,10 @@
 Assistant conversationnel capable de répondre à des questions
 à partir de documents PDF, CSV ou pages web.
 
+
+## Demo en ligne
+[Accéder à l'application](https://multiformat-rag-assistant-jjmfbmcqnxa6wwmbrngnzo.streamlit.app/)
+
 ## Architecture
 
 URL/PDF/CSV → Loader → Chunker → Embeddings → ChromaDB
