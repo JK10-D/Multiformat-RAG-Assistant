@@ -10,5 +10,3 @@ python-dotenv==1.2.2
 mistralai==2.4.5
 beautifulsoup4==4.14.3
 requests==2.33.1
-torch==2.11.0
-torchvision==0.22.0
