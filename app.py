@@ -4,7 +4,7 @@ import sys
 import streamlit as st
 import tempfile
 import os
-sys.path.insert(0, r"C:\Users\user\Documents\IA\rag_assistant")
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 from rag.loader import load_document
 from rag.chunker import create_chunks

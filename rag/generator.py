@@ -4,7 +4,7 @@ import os
 from mistralai import Mistral
 from dotenv import load_dotenv
 
-load_dotenv(r"C:\Users\user\Documents\IA\rag_assistant\.env")
+load_dotenv()
 client_llm = Mistral(api_key=os.getenv("MISTRAL_API_KEY"))
 
 def build_prompt(question, chunks):
