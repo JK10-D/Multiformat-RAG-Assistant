@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-text-splitters
+chromadb
+sentence-transformers
+PyPDF2
+pandas
+streamlit
+python-dotenv
+mistralai
+beautifulsoup4
+requests
