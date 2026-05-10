@@ -3,6 +3,15 @@
 Assistant conversationnel capable de répondre à des questions
 à partir de documents PDF, CSV ou pages web.
 
+## Évaluation de la qualité
+
+Évaluation sur 5 questions/réponses issues de Wikipedia (Intelligence Artificielle) :
+
+| Métrique | Score | Signification |
+|---|---|---|
+| Faithfulness | 0.80 | Les réponses sont ancrées dans les documents |
+| Answer Relevancy | 0.80 | Les réponses répondent bien aux questions |
+
 
 ## Demo en ligne
 [Accéder à l'application](https://multiformat-rag-assistant-jjmfbmcqnxa6wwmbrngnzo.streamlit.app/)
